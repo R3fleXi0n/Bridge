@@ -1,0 +1,6 @@
+name: Bridge
+version: 1.0
+author: R3fleXi0n
+main: lu.r3flexi0n.bridge.Bridge
+depend: [SchematicAPI]
+commands:
